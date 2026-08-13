@@ -1,13 +1,57 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-08-13T11:14:44+09:00",
   "beaches": {
-    "haeundae": { "name": "해운대해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "gwangalli": { "name": "광안리해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "songjeong": { "name": "송정해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "songdo": { "name": "송도해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "dadaepo": { "name": "다대포해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "ilgwang": { "name": "일광해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] },
-    "imrang": { "name": "임랑해수욕장", "status": "unavailable", "primary": null, "parkingLots": [] }
+    "haeundae": {
+      "name": "해운대해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차 정보 미제공"
+    },
+    "gwangalli": {
+      "name": "광안리해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차 정보 미제공"
+    },
+    "songjeong": {
+      "name": "송정해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차정보 제공 주차장 미확인"
+    },
+    "songdo": {
+      "name": "송도해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차정보 제공 주차장 미확인"
+    },
+    "dadaepo": {
+      "name": "다대포해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차정보 제공 주차장 미확인"
+    },
+    "ilgwang": {
+      "name": "일광해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차정보 제공 주차장 미확인"
+    },
+    "imrang": {
+      "name": "임랑해수욕장",
+      "status": "unavailable",
+      "primary": null,
+      "parkingLots": [],
+      "error": "실시간 주차정보 제공 주차장 미확인"
+    }
   },
-  "source": { "name": "부산시설공단 공영주차장 실시간 주차현황" }
+  "source": {
+    "name": "부산시설공단 공영주차장 실시간 주차현황"
+  }
 }
