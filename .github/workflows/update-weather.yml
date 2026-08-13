@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: beach-data-update
+  cancel-in-progress: false
+  
 jobs:
   update-weather:
     runs-on: ubuntu-latest
